@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">AccessControl</string>
+    <string name="enter_your_age">Enter your age</string>
+    <string name="verify">Verify</string>
+    <string name="blocked">Blocked</string>
+    <string name="accompanied">Accompanied</string>
+    <string name="do_you_have_any_documents">Do you have any documents?</string>
 </resources>
