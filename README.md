@@ -1,3 +1,87 @@
+<h1 align="center">📱 Access Control System</h1>
+
+<p align="center">
+Android application developed in <b>Kotlin</b> to simulate a real access validation system.
+</p>
+
+<hr>
+
+<h2>📋 About the Project</h2>
+
+<p>
+The application performs validations such as:
+</p>
+
+<ul>
+  <li>✅ Minimum age verification</li>
+  <li>✅ Valid document verification</li>
+  <li>✅ Responsible companion verification</li>
+  <li>✅ Blocked user verification</li>
+</ul>
+
+<p>
+The application uses logical operators 
+(<b>&&</b>, <b>||</b>, <b>!</b>) 
+to control access permissions, displaying authorized or denied messages according to the defined rules.
+</p>
+
+<hr>
+
+<h2>🚀 Technologies Used</h2>
+
+<ul>
+  <li>Kotlin</li>
+  <li>Android Studio</li>
+  <li>XML Layout</li>
+  <li>ConstraintLayout</li>
+  <li>LinearLayout</li>
+  <li>Conditional Logic</li>
+  <li>Click Events (setOnClickListener)</li>
+</ul>
+
+<hr>
+
+<h2>🧠 Concepts Applied</h2>
+
+<ul>
+  <li>Data validation</li>
+  <li>Error handling</li>
+  <li>Type conversion</li>
+  <li>Conditional structures</li>
+  <li>Logical operators</li>
+  <li>Graphical interface interaction</li>
+</ul>
+
+<hr>
+
+<h2>📌 Features</h2>
+
+<ul>
+  <li>Age input</li>
+  <li>Permission selection using CheckBox</li>
+  <li>Automatic validation</li>
+  <li>Visual feedback for the user</li>
+</ul>
+
+<hr>
+
+<h2>💡 Project Objective</h2>
+
+<p>
+Practice Android development, programming logic, and interactive application building using Kotlin.
+</p>
+
+<hr>
+
+<h2>📷 Project Preview</h2>
+
+<p align="center">
+  <img src="preview.png" width="250"/>
+</p>
+
+
+
+
 <h1 align="center">📱 Sistema de Controle de Acesso</h1>
 
 <p align="center">
@@ -78,3 +162,4 @@ Praticar desenvolvimento Android, lógica de programação e construção de apl
 <p align="center">
   <img src="preview.png" width="250"/>
 </p>
+
