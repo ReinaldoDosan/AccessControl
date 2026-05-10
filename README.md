@@ -1,58 +1,80 @@
-📱 Sistema de Controle de Acesso
+<h1 align="center">📱 Sistema de Controle de Acesso</h1>
 
-Aplicativo Android desenvolvido em Kotlin com o objetivo de simular um sistema real de validação de acesso.
+<p align="center">
+Aplicativo Android desenvolvido em <b>Kotlin</b> com o objetivo de simular um sistema real de validação de acesso.
+</p>
 
-O app realiza verificações de:
+<hr>
 
-Idade mínima 
+<h2>📋 Sobre o Projeto</h2>
 
-Documento válido 
+<p>
+O aplicativo realiza verificações de:
+</p>
 
-Acompanhante responsável 
+<ul>
+  <li>✅ Idade mínima</li>
+  <li>✅ Documento válido</li>
+  <li>✅ Acompanhante responsável</li>
+  <li>✅ Usuário bloqueado</li>
+</ul>
 
-Usuário bloqueado 
+<p>
+A aplicação utiliza operadores lógicos 
+(<b>&&</b>, <b>||</b>, <b>!</b>) 
+para controlar as permissões de entrada, exibindo mensagens de acesso permitido ou negado de acordo com as regras definidas.
+</p>
 
-A aplicação utiliza operadores lógicos (&&, ||, !) para controlar as permissões de entrada, exibindo mensagens de acesso permitido ou negado de acordo com as regras definidas.
+<hr>
 
-🚀 Tecnologias utilizadas
+<h2>🚀 Tecnologias Utilizadas</h2>
 
-Kotlin 
+<ul>
+  <li>Kotlin</li>
+  <li>Android Studio</li>
+  <li>XML Layout</li>
+  <li>ConstraintLayout</li>
+  <li>LinearLayout</li>
+  <li>Lógica Condicional</li>
+  <li>Eventos de clique (setOnClickListener)</li>
+</ul>
 
-Android Studio 
+<hr>
 
-XML Layout 
+<h2>🧠 Conceitos Aplicados</h2>
 
-ConstraintLayout / LinearLayout 
+<ul>
+  <li>Validação de dados</li>
+  <li>Tratamento de erros</li>
+  <li>Conversão de tipos</li>
+  <li>Estruturas condicionais</li>
+  <li>Operadores lógicos</li>
+  <li>Interação com interface gráfica</li>
+</ul>
 
-Lógica condicional 
+<hr>
 
-Eventos de clique (setOnClickListener) 
+<h2>📌 Funcionalidades</h2>
 
-🧠 Conceitos aplicados
+<ul>
+  <li>Entrada de idade</li>
+  <li>Seleção de permissões via CheckBox</li>
+  <li>Validação automática</li>
+  <li>Feedback visual ao usuário</li>
+</ul>
 
-Validação de dados 
+<hr>
 
-Tratamento de erros 
+<h2>💡 Objetivo do Projeto</h2>
 
-Conversão de tipos 
-
-Estruturas condicionais 
-
-Operadores lógicos 
-
-Interação com interface gráfica 
-
-📌 Funcionalidades
-
-Entrada de idade 
-
-Seleção de permissões via CheckBox 
-
-Validação automática 
-
-Feedback visual ao usuário 
-
-💡 Objetivo do projeto
-
+<p>
 Praticar desenvolvimento Android, lógica de programação e construção de aplicações interativas utilizando Kotlin.
+</p>
 
+<hr>
+
+<h2>📷 Preview do Projeto</h2>
+
+<p align="center">
+  <img src="preview.png" width="250"/>
+</p>
