@@ -76,9 +76,10 @@ Practice Android development, programming logic, and interactive application bui
 <h2>📷 Project Preview</h2>
 
 <p align="center">
-  <img src="preview.png" width="250"/>
+  <img src="gradle/wrapper/preview.png" width="850"/>
 </p>
-
+<br>
+<br>
 
 
 
@@ -160,6 +161,6 @@ Praticar desenvolvimento Android, lógica de programação e construção de apl
 <h2>📷 Preview do Projeto</h2>
 
 <p align="center">
-  <img src="preview.png" width="250"/>
+  <img src="gradle/wrapper/preview.png" width="850"/>
 </p>
 
