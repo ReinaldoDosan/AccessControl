@@ -5,6 +5,7 @@ import android.widget.Button
 import android.widget.CheckBox
 import android.widget.EditText
 import android.widget.TextView
+import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 
 
@@ -53,11 +54,14 @@ class MainActivity : AppCompatActivity() {
             if (access) {
                 textResult.text = "✅ Authorized access "
                 textResult.setTextColor(getColor(android.R.color.holo_green_dark))
+                Toast.makeText(this, "Welcome", Toast.LENGTH_SHORT).show()
 
-            //Bloco 7
+
+                //Bloco 7
             } else {
                 textResult.text = "❌ Access denied"
                 textResult.setTextColor(getColor(android.R.color.holo_red_dark))
+                Toast.makeText(this, "Access denied", Toast.LENGTH_SHORT).show()
 
             }
 
