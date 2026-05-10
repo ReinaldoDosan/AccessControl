@@ -160,6 +160,6 @@ Praticar desenvolvimento Android, lógica de programação e construção de apl
 <h2>📷 Preview do Projeto</h2>
 
 <p align="center">
-  <img src="AccessControl/blob/master/gradle/wrapper/preview.png" width="250"/>
+  <img src="gradle/wrapper/preview.png" width="250"/>
 </p>
 
